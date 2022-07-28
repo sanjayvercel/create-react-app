@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Creating a Frontend App
+          Redirect to https://reactjs.org
         </a>
       </header>
     </div>
